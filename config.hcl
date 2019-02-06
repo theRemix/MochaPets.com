@@ -1,11 +1,12 @@
-pet "Utterly Butterly" {
+pet {
+  name    = "Utterly Butterly"
   species = "dog"
-  scene = "ice mountains"
+  scene   = "ice mountains"
 }
 
 settings {
   social {
-    twitter = true
+    twitter  = true
     facebook = true
   }
 }
