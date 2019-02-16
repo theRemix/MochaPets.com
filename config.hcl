@@ -1,6 +1,6 @@
 pet {
-  name    = "Utterly Butterly"
-  species = "dog"
+  name    = "Otterfly"
+  species = "fox"
   scene   = "ice mountains"
 }
 
