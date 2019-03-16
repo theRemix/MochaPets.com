@@ -1,12 +1,11 @@
 pet {
-  name    = "Otterfly"
   species = "fox"
-  scene   = "ice mountains"
 }
 
-settings {
-  social {
-    twitter  = true
-    facebook = true
-  }
+scene = "ice mountains"
+
+social {
+  github  = "theRemix"
+  twitter = "theRemix"
+  codepen = "theRemix"
 }
