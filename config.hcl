@@ -1,5 +1,5 @@
 pet {
-  species = "tiger"
+  species = "fox"
 }
 
 scene = "ice mountains"
